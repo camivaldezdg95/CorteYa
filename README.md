@@ -1,6 +1,6 @@
 # CorteYa — Sistema de Gestión de Turnos para Peluquerías
 
-Sistema desarrollado como Trabajo Final de Graduación (TFG) de la Licenciatura en Informática — UCASAL.
+Sistema desarrollado como Trabajo Final de Graduación (TFG) de la Licenciatura en Informática — Universidad Siglo 21.
 
 **Autora:** Camila Valdez De Grandis  
 **Tecnologías:** Oracle Database 21c XE · Oracle APEX 26.1 · PL/SQL · ORDS
@@ -152,4 +152,4 @@ CONFIRMADO → CANCELADO
 
 ---
 
-*Trabajo Final de Graduación — Licenciatura en Informática — UCASAL — 2026*
+*Trabajo Final de Graduación — Licenciatura en Informática — Universidad Siglo 21 — 2026*
