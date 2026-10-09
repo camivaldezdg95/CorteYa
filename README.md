@@ -1,4 +1,4 @@
-# CorteYa — Sistema de gestión de turnos para peluquerías
+# CorteYa: sistema de gestión de turnos para peluquerías
 
 Prototipo desarrollado como Trabajo Final de Graduación de la Licenciatura en Informática (Universidad Siglo 21).
 
@@ -126,7 +126,7 @@ Las reservas simultáneas para un mismo profesional se procesan de a una mediant
 |---|---|
 | PENDIENTE | CONFIRMADO, CANCELADO o FINALIZADO |
 | CONFIRMADO | CANCELADO o FINALIZADO |
-| CANCELADO | — (estado final) |
-| FINALIZADO | — (estado final) |
+| CANCELADO | Ninguno (estado final) |
+| FINALIZADO | Ninguno (estado final) |
 
 Los turnos PENDIENTES o CONFIRMADOS pueden reprogramarse sin cambiar de estado. Cada alta, cambio de estado y reprogramación queda registrado en `AUDITLOG` con el usuario que la realizó.
